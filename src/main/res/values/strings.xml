@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Meridian Customer Support</string>
+    <string name="Home">Home Page</string>
+    <string name="contact_support">Contact Support</string>
+    <string name="contact_info">Contact Info</string>
+    <string name="app">Meridian App</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="email">nobirds@meridianbirdremoval.com</string>
+    <string name="phone">For commerical bird removal: (855)362-2200</string>
+    <string name="address">17 N Franklin St, Christiansburg, VA 24073</string>
+    <string name="title_activity_maps2">Map</string>
+    <string name="title_item_list">Customer Service</string>
+    <string name="title_item_detail">Customer service Options</string>
+</resources>
